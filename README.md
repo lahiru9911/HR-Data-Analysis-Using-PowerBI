@@ -1,2 +1,2 @@
 # HR-Data-Analysis-Using-PowerBI
-Analysis and create dashboard using PowerBi
+Analysis and create a dashboard using PowerBI
